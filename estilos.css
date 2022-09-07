@@ -127,7 +127,7 @@
 	
 	/**Movil**/
 	
-	@media (max-width: 551px) {
+	@media (max-width: 5549px) and (max-width: 2840px) {
 		.desktop {
 			display: none;
 		}
@@ -151,7 +151,7 @@
 	
 	/**Escritorio**/
 	
-	@media (min-width: 551px) {
+	@media (min-width: 5549px) {
 		.tablet {
 			display: none;
 		}
