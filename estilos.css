@@ -51,7 +51,7 @@
 	}
 	.container .menu a{
 		display: inline-block;
-		padding: 15px;
+		padding: 5px;
 		line-height: normal;
 		text-decoration: none;
 		color: #fff;
@@ -127,7 +127,7 @@
 	
 	/**Movil**/
 	
-	@media (max-width: 5549px) and (max-width: 2840px) {
+	@media (max-width: 8000px) and (max-width: 9000px) {
 		.desktop {
 			display: none;
 		}
