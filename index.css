@@ -6,7 +6,7 @@
 
 /**Movil**/
 
-@media (max-width: 767px) {
+@media (max-width: 551px) {
     .desktop {
         display: none;
     }
@@ -30,7 +30,7 @@
 
 /**Escritorio**/
 
-@media (min-width: 991px) {
+@media (min-width: 551px) {
     .tablet {
         display: none;
     }
